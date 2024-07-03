@@ -9,7 +9,7 @@
 - 🇸🇬 Based in Singapore.
 - ✨ Enthusiast about AI, Software Architecture, and Scalable Systems.
 - 📝 I write in-depth technical articles.
-- 📚 Pursuing Master of Science Data Science at [University of Colorado Boulder](https://www.colorado.edu/)
+- 📚 Pursuing Master of Science in Data Science at [University of Colorado Boulder](https://www.colorado.edu/)
 - 🌏 I love to travel.
 
 #### Languages and Tools
