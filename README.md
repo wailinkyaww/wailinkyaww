@@ -57,7 +57,6 @@
 <br/>
 
 #### Support
-You can buy me a coffee for the articles I wrote.
 
 <a href="https://www.buymeacoffee.com/wailink130">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
